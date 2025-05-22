@@ -1,0 +1,14 @@
+C:\Users\GHOST\source\repos\algo\algo\bin\Debug\net8.0\algo.exe
+C:\Users\GHOST\source\repos\algo\algo\bin\Debug\net8.0\algo.deps.json
+C:\Users\GHOST\source\repos\algo\algo\bin\Debug\net8.0\algo.runtimeconfig.json
+C:\Users\GHOST\source\repos\algo\algo\bin\Debug\net8.0\algo.dll
+C:\Users\GHOST\source\repos\algo\algo\bin\Debug\net8.0\algo.pdb
+C:\Users\GHOST\source\repos\algo\algo\obj\Debug\net8.0\algo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GHOST\source\repos\algo\algo\obj\Debug\net8.0\algo.AssemblyInfoInputs.cache
+C:\Users\GHOST\source\repos\algo\algo\obj\Debug\net8.0\algo.AssemblyInfo.cs
+C:\Users\GHOST\source\repos\algo\algo\obj\Debug\net8.0\algo.csproj.CoreCompileInputs.cache
+C:\Users\GHOST\source\repos\algo\algo\obj\Debug\net8.0\algo.dll
+C:\Users\GHOST\source\repos\algo\algo\obj\Debug\net8.0\refint\algo.dll
+C:\Users\GHOST\source\repos\algo\algo\obj\Debug\net8.0\algo.pdb
+C:\Users\GHOST\source\repos\algo\algo\obj\Debug\net8.0\algo.genruntimeconfig.cache
+C:\Users\GHOST\source\repos\algo\algo\obj\Debug\net8.0\ref\algo.dll
